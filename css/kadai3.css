@@ -1,0 +1,23 @@
+h1{
+    background-color:gray;
+    text-align:center;
+    color:aliceblue;
+}
+
+h2{
+    background-color:darkseagreen;
+    text-align:center;
+    color:darkblue;
+}
+
+h3{
+    color:tomato;
+}
+
+p{
+    color:saddlebrown;
+}
+
+body{
+    background-image:url(../images/back1.jpg)
+}
