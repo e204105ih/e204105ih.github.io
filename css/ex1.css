@@ -1,0 +1,32 @@
+h1{
+    text-align:center;
+    background-color:white;
+    color:cadetblue;
+}
+
+h2{
+    text-align:center;
+    background-color:gold;
+    color:tomato;
+}
+
+table{
+    background-color:greenyellow;
+}
+
+
+ol{
+    background-image:url(../images/back3.jpg)
+}
+
+
+
+
+
+
+
+
+body{
+    background-image:url(../images/sora.jpg)
+}
+
