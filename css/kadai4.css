@@ -1,0 +1,28 @@
+h1#Title{
+    text-align: center;
+    background-color:white;
+    color:darkblue;
+        
+}
+
+h2#shumi1{
+    text-align: center;
+    background-color:brown;
+    color:yellow;
+}
+
+h2#shumi2{
+    text-align: center;
+    background-color:green;
+    color:coral;
+}
+
+h1#link{
+    text-align: center;
+    background-color:darkgoldenrod;
+    color:azure;
+}
+
+body{
+    background-image:url(../images/back4.jpg);
+}
