@@ -26,6 +26,7 @@ div.left{
     width: 250px;
     margin-right: 50px;
     line-height: 40px;
+    margin-top: 20px;
 }
 
 div.menu{
@@ -44,7 +45,7 @@ div.right{
     display: inline-block;
     vertical-align: top;
     width: 700px;
-
+    margin-top: 20px;
 }
 
 div.ima{
